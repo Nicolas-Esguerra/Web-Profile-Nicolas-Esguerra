@@ -140,7 +140,7 @@ const EN = {
   "exp.2.text":  "Developed a simple video game with Godot Engine, programming its logic and controls.",
 
   "portfolio.title": "Projects",
-  "project.1.title": "Matrix calculato",
+  "project.1.title": "Matrix calculator",
   "project.1.text":  "Solves linear systems and calculates inverse matrices step by step · JavaScript, PHP",
   "project.2.title": "WCAG accessibility checker",
   "project.2.text":  "Analyzes HTML against WCAG 2.2 Level A · Laravel",
