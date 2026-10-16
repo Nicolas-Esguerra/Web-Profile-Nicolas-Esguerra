@@ -1,8 +1,8 @@
 # Translation Notes
 
 **Student:** Nicolás Esguerra Castro
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Course:** Inglés II
+**Date:** 16/10/2026
 
 ---
 
