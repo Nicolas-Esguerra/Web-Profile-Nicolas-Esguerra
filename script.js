@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Soy Nicolás Esguerra Castro, estudiante de Técnico Profesional en Programación Web. Me gusta la tecnología y la programación. Me interesa aprender y mejorar mis habilidades en el desarrollo web.",
+  "about.text":           "Estudio Programación Web y construyo sitios con HTML, CSS y JavaScript. Me interesa el desarrollo accesible y el soporte técnico, y quiero aplicar lo que aprendo en mis primeras prácticas.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Guamo, Tolima, Colombia",
@@ -57,26 +57,26 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  //"edu.2.title": "[Curso o certificación]",
+  //"edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Proyecto académico en equipo",
+  "exp.1.text":  "Participé en el desarrollo de un evaluador de accesibilidad que revisa criterios de nivel A de WCAG 2.2 analizando HTML, usando la metodología XP.",
   "exp.2.title": "[Rol o tipo de proyecto]",
   "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Calculadora de matrices",
+  "project.1.text":  "Resuelve sistemas de ecuaciones y calcula la matriz inversa paso a paso · JavaScript, PHP",
+  "project.2.title": "Evaluador de accesibilidad WCAG",
+  "project.2.text":  "Analiza HTML según WCAG 2.2 nivel A · Laravel",
+  "project.3.title": "Perfil web bilingüe",
+  "project.3.text":  "Página personal en español e inglés · HTML, CSS, JavaScript",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "¿Tienes una práctica o un proyecto? Escríbeme.",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "Mi perfil de LinkedIn",
 
   "footer.note": "Nicolás Esguerra · Técnico Profesional en Programación Web · UniEspinal"
 };
@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I am Nicolás Esguerra Castro, a student in the Professional Technician program for Web Programming. I enjoy technology and programming. I am interested in learning and improving my web development skills.",
+  "about.text":           "Web programming student building websites with HTML, CSS and JavaScript. I focus on accessible development and technical support, and I am looking for an internship to apply what I learn.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Guamo, Tolima, Colombia",
@@ -130,27 +130,27 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "Learning to build websites with HTML, CSS, JavaScript and MySQL, and to collaborate using Git and GitHub.",
+ // "edu.2.title": "[Course or certificate]",
+ // "edu.2.text":  "[What you learned and how you use it.]",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Team academic project",
+  "exp.1.text":  "Helped build an accessibility checker that tests WCAG 2.2 Level A criteria by analyzing HTML, following the XP methodology.",
   "exp.2.title": "[Role or type of project]",
   "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "Matrix calculato",
+  "project.1.text":  "Solves linear systems and calculates inverse matrices step by step · JavaScript, PHP",
+  "project.2.title": "WCAG accessibility checker",
+  "project.2.text":  "Analyzes HTML against WCAG 2.2 Level A · Laravel",
+  "project.3.title": "Bilingual web profile",
+  "project.3.text":  "Personal page in Spanish and English · HTML, CSS, JavaScript",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "Looking for an intern or have a project? Send me a message.",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "My LinkedIn profile",
 
   "footer.note": "Nicolás Esguerra · Professional Technician in Web Programming · UniEspinal"
 };
