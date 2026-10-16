@@ -56,14 +56,14 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "Aprendo a construir sitios web con HTML, CSS, JavaScript y MySQL, y a trabajar en equipo con Git y GitHub.",
+  "edu.2.title": "Diplomado en Redes (en curso)",
+  "edu.2.text":  "Aprendo direccionamiento IP, subredes, fundamentos de redes y Cisco.",
 
   "exp.1.title": "Proyecto académico en equipo",
   "exp.1.text":  "Participé en el desarrollo de un evaluador de accesibilidad que revisa criterios de nivel A de WCAG 2.2 analizando HTML, usando la metodología XP.",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.2.title": "Desarrollo de videojuego",
+  "exp.2.text":  "Desarrollé un videojuego simple con Godot Engine, programando su lógica y sus controles.",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Calculadora de matrices",
@@ -131,13 +131,13 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "Learning to build websites with HTML, CSS, JavaScript and MySQL, and to collaborate using Git and GitHub.",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.title": "Diploma in Networking (in progress)",
+  "edu.2.text":  "Learning IP addressing, subnetting, the basics of networks and Cisco.",
 
   "exp.1.title": "Team academic project",
   "exp.1.text":  "Helped build an accessibility checker that tests WCAG 2.2 Level A criteria by analyzing HTML, following the XP methodology.",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.2.title": "Video game development",
+  "exp.2.text":  "Developed a simple video game with Godot Engine, programming its logic and controls.",
 
   "portfolio.title": "Projects",
   "project.1.title": "Matrix calculato",
