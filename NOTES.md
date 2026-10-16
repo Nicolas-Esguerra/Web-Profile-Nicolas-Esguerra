@@ -31,7 +31,11 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> In my Spanish "Sobre Mí" text I start with "Soy Nicolás Esguerra Castro", but
+> I removed that sentence from the English version. My full name is already in
+> the page header, so repeating it wastes space in the first lines, which are
+> the most important ones. In English, a profile usually starts directly with
+> what the person does.
 
 ---
 
@@ -40,7 +44,10 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> I kept the names "GitHub", "Git" and "WCAG" in both versions. They are names
+> of tools and standards, and developers search for them with those exact
+> words. A translation would make them harder to find and could confuse
+> people who work in web development.
 
 ---
 
@@ -50,11 +57,15 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Me interesa el desarrollo accesible y el soporte técnico, y quiero aplicar lo que aprendo en mis primeras prácticas.
 >
-> English: [copy your sentence here]
+> English: I focus on accessible development and technical support, and I am looking for an internship to apply what I learn.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> A word-by-word translation of "Me interesa" would be "It interests me",
+> which sounds unnatural in a professional profile. I changed it to "I focus
+> on" because it describes what I do, not only what I like. I also replaced
+> "mis primeras prácticas" with "an internship", because the word "practices"
+> in English means something different.
 
 ---
 
@@ -64,11 +75,11 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
-
+> I used Claude, an AI assistant, to suggest wording for the English version of
+> my profile and to check my grammar. I also used it to understand why a
+> word-by-word translation of some Spanish sentences does not work in English.
+> I reviewed each sentence and edited it so that it matched my real projects
+> and my real level of English.
 ---
 
 ## Self-check before you submit
