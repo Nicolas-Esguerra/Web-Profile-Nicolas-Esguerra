@@ -57,8 +57,8 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  //"edu.2.title": "[Curso o certificación]",
-  //"edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.2.title": "[Curso o certificación]",
+  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
   "exp.1.title": "Proyecto académico en equipo",
   "exp.1.text":  "Participé en el desarrollo de un evaluador de accesibilidad que revisa criterios de nivel A de WCAG 2.2 analizando HTML, usando la metodología XP.",
@@ -76,7 +76,7 @@ const ES = {
   "contact.title":         "Contacto",
   "contact.intro":         "¿Tienes una práctica o un proyecto? Escríbeme.",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "Mi perfil de LinkedIn",
+  "contact.linkedinValue": "Nicolás Esguerra",
 
   "footer.note": "Nicolás Esguerra · Técnico Profesional en Programación Web · UniEspinal"
 };
@@ -131,8 +131,8 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "Learning to build websites with HTML, CSS, JavaScript and MySQL, and to collaborate using Git and GitHub.",
- // "edu.2.title": "[Course or certificate]",
- // "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.title": "[Course or certificate]",
+  "edu.2.text":  "[What you learned and how you use it.]",
 
   "exp.1.title": "Team academic project",
   "exp.1.text":  "Helped build an accessibility checker that tests WCAG 2.2 Level A criteria by analyzing HTML, following the XP methodology.",
@@ -150,7 +150,7 @@ const EN = {
   "contact.title":         "Contact",
   "contact.intro":         "Looking for an intern or have a project? Send me a message.",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "My LinkedIn profile",
+  "contact.linkedinValue": "Nicolás Esguerra",
 
   "footer.note": "Nicolás Esguerra · Professional Technician in Web Programming · UniEspinal"
 };
