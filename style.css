@@ -376,10 +376,33 @@ footer .redes a {
 .circulod { float: left; }
 
 /* ---------- PORTFOLIO ---------- */
-.galeria {
+.portfolio .galeria {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+}
+
+.portfolio .galeria .proyecto {
+  position: relative;
+  height: 230px; /* Fuerza a que las 3 tarjetas tengan exactamente el mismo alto */
+  border-radius: 10px;
+  overflow: hidden; /* Evita que la imagen se salga de las esquinas redondeadas */
+  display: block;
+}
+
+.portfolio .galeria .proyecto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Rellena toda la tarjeta sin estirar ni deformar la imagen */
+  object-position: top center; /* Prioriza la parte superior de las capturas */
+  display: block;
+}
+
+/* Para que en celular se vean una debajo de otra */
+@media (max-width: 768px) {
+  .portfolio .galeria {
+    grid-template-columns: 1fr;
+  }
 }
 
 .proyecto {
