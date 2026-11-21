@@ -57,7 +57,7 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Aprendo a construir sitios web con HTML, CSS, JavaScript y MySQL, y a trabajar en equipo con Git y GitHub.",
-  "edu.2.title": "Diplomado en Redes (en curso)",
+  "edu.2.title": "Diplomado en Redes",
   "edu.2.text":  "Aprendo direccionamiento IP, subredes, fundamentos de redes y Cisco.",
 
   "exp.1.title": "Proyecto académico en equipo",
@@ -68,7 +68,7 @@ const ES = {
   "portfolio.title": "Proyectos",
   "project.1.title": "Calculadora de matrices",
   "project.1.text":  "Resuelve sistemas de ecuaciones y calcula la matriz inversa paso a paso · JavaScript, PHP",
-  "project.2.title": "Evaluador de accesibilidad WCAG · En curso",
+  "project.2.title": "Evaluador de accesibilidad WCAG ",
   "project.2.text":  "Analiza HTML según WCAG 2.2 nivel A · Laravel",
   "project.3.title": "Perfil web bilingüe",
   "project.3.text":  "Página personal en español e inglés · HTML, CSS, JavaScript",
@@ -131,7 +131,7 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "Learning to build websites with HTML, CSS, JavaScript and MySQL, and to collaborate using Git and GitHub.",
-  "edu.2.title": "Diploma in Networking (in progress)",
+  "edu.2.title": "Diploma in Networking",
   "edu.2.text":  "Learning IP addressing, subnetting, the basics of networks and Cisco.",
 
   "exp.1.title": "Team academic project",
@@ -142,7 +142,7 @@ const EN = {
   "portfolio.title": "Projects",
   "project.1.title": "Matrix calculator",
   "project.1.text":  "Solves linear systems and calculates inverse matrices step by step · JavaScript, PHP",
-  "project.2.title": "WCAG accessibility checker . course",
+  "project.2.title": "WCAG accessibility checker",
   "project.2.text":  "Analyzes HTML against WCAG 2.2 Level A · Laravel",
   "project.3.title": "Bilingual web profile",
   "project.3.text":  "Personal page in Spanish and English · HTML, CSS, JavaScript",
